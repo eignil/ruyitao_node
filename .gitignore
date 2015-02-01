@@ -1,0 +1,8 @@
+
+scratch/
+.project
+.settings/
+.DS_Store
+
+*.log
+
